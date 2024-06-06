@@ -279,7 +279,7 @@ class help_functions:
         aliveText += f"➠ **Pyro-gram Version:** `{version['pyrogram']}`\n"
         aliveText += f"➠ **Channel:** @{UpdateChannel} \n"
         aliveText += "━───────╮•╭───────━\n\n"
-        aliveText += "➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
+        aliveText += "➠ **Source Code:** [•Repo•](https://te.legra.ph/file/29626078a1324cf58ce2a.jpg)"
 
         if client.me.is_bot:
             aliveButtons = InlineKeyboardMarkup(
